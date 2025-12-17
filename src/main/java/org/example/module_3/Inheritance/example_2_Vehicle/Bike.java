@@ -1,4 +1,4 @@
-package org.example.module_3.Inheritance.example_2;
+package org.example.module_3.Inheritance.example_2_Vehicle;
 
 public class Bike extends Vehicle{
     // attributes of Bike

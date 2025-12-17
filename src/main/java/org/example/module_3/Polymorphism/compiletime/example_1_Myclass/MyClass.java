@@ -1,4 +1,4 @@
-package org.example.module_3.Polymorphism.compiletime.example_1;
+package org.example.module_3.Polymorphism.compiletime.example_1_Myclass;
 
 public class MyClass {
     public void myfunc(){

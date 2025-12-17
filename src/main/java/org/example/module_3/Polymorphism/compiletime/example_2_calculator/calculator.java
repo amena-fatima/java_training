@@ -1,4 +1,4 @@
-package org.example.module_3.Polymorphism.compiletime.example_2;
+package org.example.module_3.Polymorphism.compiletime.example_2_calculator;
 
 public class calculator {
     public int add(int a,int b){

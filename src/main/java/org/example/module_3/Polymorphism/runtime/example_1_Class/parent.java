@@ -1,4 +1,4 @@
-package org.example.module_3.Polymorphism.runtime.example_1;
+package org.example.module_3.Polymorphism.runtime.example_1_Class;
 
 public class parent {
     public void myfunc(){

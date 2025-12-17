@@ -1,4 +1,4 @@
-package org.example.module_3.Inheritance.example_2;
+package org.example.module_3.Inheritance.example_2_Vehicle;
 // Is - A relationship
 // car IS-A vehicle
 public class Car extends Vehicle{
