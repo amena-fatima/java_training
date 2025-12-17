@@ -1,4 +1,4 @@
-package org.example.module_3.Abstraction.Interfaces.example_1;
+package org.example.module_3.Abstraction.Interfaces.example_1_Remote;
 
 interface Remote {
     public abstract void turnon();

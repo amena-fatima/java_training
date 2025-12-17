@@ -1,6 +1,6 @@
-package org.example.module_3.Abstraction.Interfaces.example_2;
+package org.example.module_3.Abstraction.Interfaces.example_2_Payment;
 
-public class Upi extends bank implements Payment{
+public class CreditCard extends bank implements Payment{
     public void pay(int amount) {
         balance -= amount;
     }
@@ -12,4 +12,5 @@ public class Upi extends bank implements Payment{
     public void showBalance() {
         System.out.println("Balance : "+balance);
     }
+
 }

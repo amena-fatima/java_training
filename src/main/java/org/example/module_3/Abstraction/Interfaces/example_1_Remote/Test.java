@@ -1,4 +1,4 @@
-package org.example.module_3.Abstraction.Interfaces.example_1;
+package org.example.module_3.Abstraction.Interfaces.example_1_Remote;
 
 public class Test {
     public static void main(String[] args){

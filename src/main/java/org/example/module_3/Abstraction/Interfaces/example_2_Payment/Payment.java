@@ -1,4 +1,4 @@
-package org.example.module_3.Abstraction.Interfaces.example_2;
+package org.example.module_3.Abstraction.Interfaces.example_2_Payment;
 
 interface Payment {
     public abstract void pay(int amount);
