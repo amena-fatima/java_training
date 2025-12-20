@@ -1,4 +1,4 @@
-package org.example.module_4.exceptionHandling;
+package org.example.module_4.exceptionHandling.trycatch;
 
 import java.io.File;
 
