@@ -3,11 +3,11 @@ package org.example.module_5.list;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class sorting_array_list {
+public class sorting_array_list_collection {
     ArrayList<Integer> myArr1=new ArrayList<>();
 
     public static void main(String[] args) {
-        sorting_array_list obj = new sorting_array_list();
+        sorting_array_list_collection obj = new sorting_array_list_collection();
         obj.addElement();
         System.out.println("original array");
         obj.printArray();
